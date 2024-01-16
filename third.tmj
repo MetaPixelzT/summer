@@ -176,7 +176,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"second#entry-from-third"
+                 "value":"office2#entry-from-office3"
                 }],
          "type":"tilelayer",
          "visible":true,
