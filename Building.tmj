@@ -302,7 +302,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"byh2#entry-from-building"
+                 "value":"map#entry-from-office"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -463,7 +463,7 @@
                  "value":"mahmoud#entry-from-byh2"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -542,7 +542,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -618,7 +618,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"byh2-c#entry-from-building"
+                 "value":"office1#entry-from-office"
                 }],
          "type":"tilelayer",
          "visible":true,

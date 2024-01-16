@@ -462,7 +462,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"building#entry-from-byh2"
+                 "value":"office#entry-from-map"
                 }],
          "type":"tilelayer",
          "visible":true,

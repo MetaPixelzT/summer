@@ -164,7 +164,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"byh2-c#entry-from-Second"
+                 "value":"office1#entry-from-office2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -208,7 +208,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"third#entry-from-Second"
+                 "value":"office3#entry-from-office2"
                 }],
          "type":"tilelayer",
          "visible":true,
