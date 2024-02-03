@@ -2103,6 +2103,33 @@
                  "width":64.5,
                  "x":831,
                  "y":31.5
+                }, 
+                {
+                 "height":128.183666666667,
+                 "id":40,
+                 "name":"sound",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/soundcloud.com\/relaxdaily\/sets\/deep-focus-music-studying-concentration-work?si=90c7387bb47c4b6b963ce91abb193661&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":223.398333333333,
+                 "x":349.634166666667,
+                 "y":94.5748333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2348,7 +2375,7 @@
          "y":0
         }],
  "nextlayerid":105,
- "nextobjectid":40,
+ "nextobjectid":41,
  "orientation":"orthogonal",
  "properties":[
         {
