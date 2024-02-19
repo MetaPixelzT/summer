@@ -4333,11 +4333,6 @@
                  "value":true
                 }, 
                 {
-                 "name":"code",
-                 "type":"string",
-                 "value":"20240219"
-                }, 
-                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"door1"
