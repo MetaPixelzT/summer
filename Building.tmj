@@ -4330,12 +4330,7 @@
                 {
                  "name":"autoOpen",
                  "type":"bool",
-                 "value":false
-                }, 
-                {
-                 "name":"code",
-                 "type":"string",
-                 "value":"219"
+                 "value":true
                 }, 
                 {
                  "name":"doorVariable",
