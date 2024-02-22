@@ -257,12 +257,12 @@
                 {
                  "name":"bellPopup",
                  "type":"string",
-                 "value":"popUp"
+                 "value":"popUp2"
                 }, 
                 {
                  "name":"bellVariable",
                  "type":"string",
-                 "value":"bell"
+                 "value":"bell2"
                 }, 
                 {
                  "name":"zone",
@@ -2258,6 +2258,45 @@
                  "width":223.398333333333,
                  "x":349.634166666667,
                  "y":94.5748333333333
+                }, 
+                {
+                 "height":0,
+                 "id":41,
+                 "name":"bell2",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"bell",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"bellSound",
+                         "type":"string",
+                         "value":"https:\/\/www.zamzar.com\/download.php?uid=3e3584b5684c94e8d78141bcd87a931-fc5ef87db5308fb7&tcs=Z87&fileID=p1hbtahddfl7e1omv1la4mma1gs74.mp3"
+                        }, 
+                        {
+                         "name":"soundRadius",
+                         "type":"int",
+                         "value":200
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":406,
+                 "y":420.666666666667
+                }, 
+                {
+                 "height":40,
+                 "id":42,
+                 "name":"popUp2",
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":66.5,
+                 "x":354.75,
+                 "y":384.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2503,7 +2542,7 @@
          "y":0
         }],
  "nextlayerid":108,
- "nextobjectid":41,
+ "nextobjectid":43,
  "orientation":"orthogonal",
  "properties":[
         {
