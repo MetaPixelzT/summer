@@ -1720,29 +1720,14 @@
                  "value":false
                 }, 
                 {
-                 "name":"closeTriggerMessage",
-                 "type":"string",
-                 "value":"Press space to close the door"
-                }, 
-                {
-                 "name":"code",
-                 "type":"string",
-                 "value":"044"
-                }, 
-                {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"my_door_4"
-                }, 
-                {
-                 "name":"openTriggerMessage",
-                 "type":"string",
-                 "value":"Press space to open the door"
+                 "value":"my_door_5"
                 }, 
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"door_step_4"
+                 "value":"doorstep5"
                 }],
          "type":"tilelayer",
          "visible":true,
