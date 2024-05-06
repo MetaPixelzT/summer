@@ -871,7 +871,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"music.mp3"
+                         "value":"1.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
