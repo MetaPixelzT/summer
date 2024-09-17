@@ -2369,6 +2369,17 @@
                  "width":66.5,
                  "x":354.75,
                  "y":384.666666666667
+                }, 
+                {
+                 "height":39.697,
+                 "id":43,
+                 "name":"clock",
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":50.2727,
+                 "x":504.530316666667,
+                 "y":68.8181666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2614,7 +2625,7 @@
          "y":0
         }],
  "nextlayerid":110,
- "nextobjectid":43,
+ "nextobjectid":44,
  "orientation":"orthogonal",
  "properties":[
         {
